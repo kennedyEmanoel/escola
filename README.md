@@ -8,8 +8,8 @@ Este projeto é uma API REST desenvolvida em Node.js com o framework Express.js,
 
 . Express.js
 
-. Sequelize (ORM para interação com banco de dados)
+. Sequelize 
 
-. MariaDB (ou outro banco de dados relacional)
+. MariaDB
 
 . JSON Web Tokens (JWT) para autenticação
